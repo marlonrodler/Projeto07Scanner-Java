@@ -1,1 +1,1 @@
-# Projeto07Scamer-Java
+# Projeto07Scanner-Java
